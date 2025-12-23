@@ -1,37 +1,60 @@
-# Machine Learning for Research
-## From Zero to Hybrid Machine Learning
+<h1 style="color:#1f77b4;">🚦 Machine Learning for Research</h1>
 
-Instructor: Mahbub Hassan  
-Department of Civil Engineering  
+<h3 style="color:#2ca02c;">
+From Zero Knowledge to Hybrid AI Models for Transportation & Sustainability
+</h3>
+
+<p>
+<strong>Instructor:</strong> Mahbub Hassan <br>
+Department of Civil Engineering <br>
 Chulalongkorn University, Thailand
+</p>
 
----
+<hr>
 
-This course teaches machine learning step by step,
-starting from zero technical knowledge and progressing
-toward hybrid (ensemble) machine learning models
-used in academic research.
+<h2 style="color:#ff7f0e;">🌍 Course Vision</h2>
 
-More content will be added gradually.
+<p>
+This course introduces <strong>Artificial Intelligence and Machine Learning</strong>
+as practical tools for <strong>Transportation Systems</strong> and
+<strong>Sustainable Mobility Research</strong>.
+</p>
 
----
+<p>
+The course is designed for students with
+<strong>no prior technical background</strong>.
+</p>
+
+<hr>
+
+<h2 style="color:#9467bd;">🤖 What You Will Learn</h2>
+
+<ul>
+  <li>Core Machine Learning concepts from scratch</li>
+  <li>Data-driven decision making for transportation</li>
+  <li>Hybrid (ensemble) machine learning models</li>
+  <li>Explainable AI for sustainable policy analysis</li>
+</ul>
+
+<hr>
 
 <h2 style="color:#17becf;">📘 Course Lectures</h2>
 
 <ul>
   <li>
-    <strong>Lesson 1:</strong>
     <a href="lectures/lesson01_introduction.md">
-      Introduction to Machine Learning
+    Lesson 1: Introduction to Machine Learning
     </a>
-    <span style="color:gray;"> (AI foundations)</span>
   </li>
-
   <li>
-    <strong>Lesson 2:</strong>
     <a href="lectures/lesson02_data_basics.md">
-      Understanding Data for Machine Learning
+    Lesson 2: Understanding Data for Machine Learning
     </a>
-    <span style="color:gray;"> (transportation examples)</span>
   </li>
 </ul>
+
+<hr>
+
+<p style="color:gray;">
+This course website is maintained for academic and educational purposes.
+</p>
