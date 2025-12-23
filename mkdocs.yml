@@ -1,0 +1,20 @@
+site_name: Machine Learning for Research
+site_description: From Zero to Hybrid ML Models
+site_author: Mahbub Hassan
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: light blue
+
+nav:
+  - Home: index.md
+  - Syllabus: syllabus.md
+  - Schedule: schedule.md
+  - Lectures:
+      - Week 1: lectures/week01_introduction.md
+      - Week 2: lectures/week02_data.md
+  - Notebooks: notebooks/index.md
+  - Assignments: assignments/index.md
+  - Projects: projects/index.md
