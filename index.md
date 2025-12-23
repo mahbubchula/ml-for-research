@@ -13,3 +13,10 @@ toward hybrid (ensemble) machine learning models
 used in academic research.
 
 More content will be added gradually.
+
+---
+
+## Course Lectures
+
+- [Lesson 1: Introduction to Machine Learning](lectures/lesson01_introduction.md)
+
