@@ -16,7 +16,22 @@ More content will be added gradually.
 
 ---
 
-## Course Lectures
+<h2 style="color:#17becf;">📘 Course Lectures</h2>
 
-- [Lesson 1: Introduction to Machine Learning](lectures/lesson01_introduction.md)
+<ul>
+  <li>
+    <strong>Lesson 1:</strong>
+    <a href="lectures/lesson01_introduction.md">
+      Introduction to Machine Learning
+    </a>
+    <span style="color:gray;"> (AI foundations)</span>
+  </li>
 
+  <li>
+    <strong>Lesson 2:</strong>
+    <a href="lectures/lesson02_data_basics.md">
+      Understanding Data for Machine Learning
+    </a>
+    <span style="color:gray;"> (transportation examples)</span>
+  </li>
+</ul>
